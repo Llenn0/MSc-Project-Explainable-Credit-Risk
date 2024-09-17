@@ -1,6 +1,6 @@
 # MSc-Project-Explainable-Credit-Risk
 
-This is my Master's Project, a major component of my MSc Artificial Intelligence degree at the University of Edinburgh. This research was performed over June-August 2024, and the repository includes both the codebase and dissertation itself.
+This is my Master's Project, a major component of my MSc Artificial Intelligence degree at the University of Edinburgh. This research was performed over June-August 2024, and the repository includes both the codebase and dissertation itself. The title of this project is 'Explainable Transformers for Credit Risk'.
 If you would like to download and run the code yourself, please read the README.txt file which provides some advice for getting everything set up.
 
 The repository includes:
