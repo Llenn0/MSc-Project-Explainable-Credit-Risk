@@ -1,0 +1,8 @@
+optimizer_config__lr_scheduler: None
+model_config__num_heads: 8
+model_config__num_attn_blocks: 2
+model_config__learning_rate: 0.001
+model_config__input_embed_dim: 64
+model_config__ff_dropout: 0.125
+model_config__attn_dropout: 0.05
+model_config__add_norm_dropout: 0.05

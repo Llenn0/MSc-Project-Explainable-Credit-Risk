@@ -1,0 +1,15 @@
+C: 100
+class_weight: None
+dual: False
+fit_intercept: True
+intercept_scaling: 1
+l1_ratio: None
+max_iter: 1500
+multi_class: deprecated
+n_jobs: None
+penalty: l1
+random_state: None
+solver: liblinear
+tol: 0.0001
+verbose: 0
+warm_start: False

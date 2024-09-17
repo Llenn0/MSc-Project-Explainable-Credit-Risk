@@ -1,0 +1,10 @@
+gamma: 1.0227707996983608
+lambda_sparse: 0.1
+lr: 0.01
+n_da: 16
+n_independent: 2
+n_shared: 1
+n_steps: 2
+scheduler_gamma: 0.9
+step_size: 8
+weight_decay: 0.0001

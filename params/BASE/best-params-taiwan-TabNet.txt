@@ -1,0 +1,9 @@
+gamma: 1.666127908060321
+lr: 0.005668054904066307
+n_da: 30
+n_independent: 3
+n_shared: 2
+n_steps: 5
+scheduler_gamma: 0.942184032972857
+step_size: 11
+weight_decay: 0.006877139428146658
